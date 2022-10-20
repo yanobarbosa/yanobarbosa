@@ -29,7 +29,7 @@ I'm Brazilian, currently graduating in an Information Systems undergraduate cour
 >- PHP
 >- AL
 
->🌱 #### Currently studying:
+>🌱 Currently studying:
 >
 >- JS
 >- PHP
